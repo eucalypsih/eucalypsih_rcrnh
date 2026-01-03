@@ -1,5 +1,7 @@
 # eucalypsih_rcrnh
 support.appsflyer.com wss game
+genflix.co.id ssl
+m.klikfilm.net ssl
 bapak.bapak.sabar.supersoccer.tv ? vidmax
 resizer-singtelhawk.quickplay.com ? vidmax
 zaintest.vuclip.com wss-nontls https://daftarilmu.com/bugs-xl/#Bug_Instagram
