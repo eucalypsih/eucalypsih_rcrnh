@@ -1,5 +1,12 @@
 # eucalypsih_rcrnh
 support.appsflyer.com wss game
+quiz.int.vidio.com wss vidio
+quiz.vidio.com wss vidio
+quiz.staging.vidio.com wss vidio
+img.email3.vidio.com wss vidio
+104.22.5.240 wss vidio
+104.16.231.163 wss vidio
+104.16.232.163 wss vidio
 genflix.co.id ssl
 m.klikfilm.net ssl
 bapak.bapak.sabar.supersoccer.tv ? vidmax
