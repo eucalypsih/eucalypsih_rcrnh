@@ -24,3 +24,10 @@ ava.game.naver.com wss
 filecdn.igamecj.com
 eric.fun.cdn.cloudflare.net 104.21.86.231 wss wa
 fboomporn.com.cdn.cloudflare.net 104.21.43.31 wss wa
+api.srv1.pss.ff.garena.com sni
+pubgmobile.com sni
+cz1.wscdn.site wss vidio
+
+support.appsflyer.com:443
+static-tv.prod.vidiocdn.com
+img-b.udemycdn.com:443
