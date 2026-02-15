@@ -3,6 +3,7 @@ prd.genflix.co.id wss genflix axis_genflix
 www.genflix.co.id was genflix axis_genflix
 audit.gsu.edu.cdn.cloudflare.net wss wa axis_chat
 support.appsflyer.com wss game
+www.noice.id wss game
 https://pdfcoffee.com/bug-test-pdf-free.html
 https://www.facebook.com/story.php?story_fbid=1095497647776640&id=100043995416746
 kelas.ruangguru.com ? ?
