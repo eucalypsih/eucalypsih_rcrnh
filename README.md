@@ -1,5 +1,6 @@
 # eucalypsih_rcrnh
 prd.genflix.co.id wss genflix axis_genflix
+www.genflix.co.id was genflix axis_genflix
 audit.gsu.edu.cdn.cloudflare.net wss wa axis_chat
 support.appsflyer.com wss game
 https://pdfcoffee.com/bug-test-pdf-free.html
