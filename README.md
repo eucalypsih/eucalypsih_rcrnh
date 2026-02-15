@@ -5,6 +5,7 @@ audit.gsu.edu.cdn.cloudflare.net wss wa axis_chat
 support.appsflyer.com wss game
 www.noice.id wss game
 www.help.tinder.com wss viu
+cache.netflix.com wss netflix
 https://pdfcoffee.com/bug-test-pdf-free.html
 https://www.facebook.com/story.php?story_fbid=1095497647776640&id=100043995416746
 kelas.ruangguru.com ? ?
