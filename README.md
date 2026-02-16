@@ -47,6 +47,10 @@ support.appsflyer.com:443
 static-tv.prod.vidiocdn.com
 img-b.udemycdn.com:443
 104.16.143.237 wss udemy edu_axis
+ticketing.ruangguru.com
+campus.quipper.com
 zoomgov.socifiles.com sni zonk zonk_axis
 support.zoom.us wss zonk zonk_axis
 weixin.qq.fbsbx.com
+teams.microsoft.com
+pull-flv-l1.tiktokcdn.com
