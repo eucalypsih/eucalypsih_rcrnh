@@ -57,3 +57,6 @@ cfcdn.viu.com
 weixin.qq.fbsbx.com
 teams.microsoft.com
 pull-flv-l1.tiktokcdn.com
+
+cdn-settings.appsflyersdk.com SNI axis
+https://github.com/triagustian250899/bot_tri/blob/2b938f53b53bf7be103945d9372fd26abeec8b31/index.js#L122
