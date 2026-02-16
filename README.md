@@ -42,6 +42,7 @@ api.srv1.pss.ff.garena.com sni freefire freefire_axis
 34.126.228.76 dl.cvs.freefiremobile.com sni freefire freefire_axis
 pubgmobile.com sni
 cz1.wscdn.site wss vidio
+links.tospotify.com sni spotify
 
 support.appsflyer.com:443
 static-tv.prod.vidiocdn.com
