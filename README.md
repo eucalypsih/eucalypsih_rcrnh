@@ -39,6 +39,7 @@ eric.fun.cdn.cloudflare.net 104.21.86.231 wss wa
 fboomporn.com.cdn.cloudflare.net 104.21.43.31 wss wa
 www.freefiremobile.com sni freefire freefire_axis
 api.srv1.pss.ff.garena.com sni freefire freefire_axis
+34.126.228.76 dl.cvs.freefiremobile.com sni freefire freefire_axis
 pubgmobile.com sni
 cz1.wscdn.site wss vidio
 
