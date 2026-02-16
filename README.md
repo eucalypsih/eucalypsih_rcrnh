@@ -45,3 +45,6 @@ cz1.wscdn.site wss vidio
 support.appsflyer.com:443
 static-tv.prod.vidiocdn.com
 img-b.udemycdn.com:443
+104.16.143.237 wss udemy edu_axis
+zoomgov.socifiles.com sni zonk zonk_axis
+support.zoom.us wss zonk zonk_axis
