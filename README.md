@@ -49,3 +49,4 @@ img-b.udemycdn.com:443
 104.16.143.237 wss udemy edu_axis
 zoomgov.socifiles.com sni zonk zonk_axis
 support.zoom.us wss zonk zonk_axis
+weixin.qq.fbsbx.com
