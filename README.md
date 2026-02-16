@@ -53,6 +53,7 @@ ticketing.ruangguru.com
 campus.quipper.com
 zoomgov.socifiles.com sni zonk zonk_axis
 support.zoom.us wss zonk zonk_axis
+cfcdn.viu.com
 weixin.qq.fbsbx.com
 teams.microsoft.com
 pull-flv-l1.tiktokcdn.com
