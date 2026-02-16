@@ -34,7 +34,8 @@ ava.game.naver.com wss
 filecdn.igamecj.com
 eric.fun.cdn.cloudflare.net 104.21.86.231 wss wa
 fboomporn.com.cdn.cloudflare.net 104.21.43.31 wss wa
-api.srv1.pss.ff.garena.com sni
+www.freefiremobile.com sni freefire freefire_axis
+api.srv1.pss.ff.garena.com sni freefire freefire_axis
 pubgmobile.com sni
 cz1.wscdn.site wss vidio
 
