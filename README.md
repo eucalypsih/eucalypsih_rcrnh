@@ -65,3 +65,6 @@ https://github.com/dievus/msdnsscan/blob/17fd47c6e375508f09cdccb0ca432992da263fb
 
 game.barokahnet.xyz
 https://github.com/Msindi17/Bug-Host-All-Operator/blob/bedb6ddef391cfdd09a7ea061dd9fd4ba4adf876/Pointing.txt#L123
+
+cfwsvid.vod.nimo.tv 443 vidio vidio_axis
+https://github.com/LeXcZxMoDz9/script/blob/65624b16734e753f3e5c3420dd1a3e97deddd5de/kota/BUG#L49
