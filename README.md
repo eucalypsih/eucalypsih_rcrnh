@@ -62,3 +62,6 @@ cdn-settings.appsflyersdk.com SNI axis
 https://github.com/triagustian250899/bot_tri/blob/2b938f53b53bf7be103945d9372fd26abeec8b31/index.js#L122
 
 https://github.com/dievus/msdnsscan/blob/17fd47c6e375508f09cdccb0ca432992da263fb8/msdnsscan.py#L178
+
+game.barokahnet.xyz
+https://github.com/Msindi17/Bug-Host-All-Operator/blob/bedb6ddef391cfdd09a7ea061dd9fd4ba4adf876/Pointing.txt#L123
