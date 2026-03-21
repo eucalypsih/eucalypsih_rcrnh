@@ -1,5 +1,6 @@
 # eucalypsih_rcrnh
 172.66.0.157 app.genflix.co.id wss
+www.genflix.co.id wss
 prd.genflix.co.id wss genflix axis_genflix
 www.genflix.co.id was genflix axis_genflix
 audit.gsu.edu.cdn.cloudflare.net wss wa axis_chat
