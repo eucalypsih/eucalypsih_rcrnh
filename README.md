@@ -85,4 +85,12 @@ Upgrade: websocket\r
 
 ```
 
+```text
+GET / HTTP/1.1\r
+Host: [host]\r
+Upgrade: websocket\r
+Connection: upgrade\r
+\r
+
+```
 
