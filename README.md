@@ -69,3 +69,20 @@ https://github.com/Msindi17/Bug-Host-All-Operator/blob/bedb6ddef391cfdd09a7ea061
 
 cfwsvid.vod.nimo.tv 443 vidio vidio_axis
 https://github.com/LeXcZxMoDz9/script/blob/65624b16734e753f3e5c3420dd1a3e97deddd5de/kota/BUG#L49
+
+
+```text
+GET /cdn-cgi/trace HTTP/1.1\r
+Host: space.byu.id\r
+\r
+CF-RAY / HTTP/1.1\r
+Host: [host]\r
+Upgrade: Websocket\r
+Connection: Keep-Alive\r
+User-Agent: [ua]\r
+Upgrade: websocket\r
+\r
+
+```
+
+
