@@ -1,4 +1,32 @@
 # eucalypsih_rcrnh
+
+Hostname ini berfungsi menggantikan alamat IP (seperti 1.1.1.1 atau 8.8.8.8) pada pengaturan Private DNS di perangkat seperti Android.
+
+1. Cloudflare
+Dikenal sangat cepat, menjaga privasi (tidak mencatat log pencarian), dan menyediakan opsi pemblokiran otomatis.
+- Standar/Cepat: `1dot1dot1dot1.cloudflare-dns.com`
+- Blokir Malware/Phishing: `security.cloudflare-dns.com`
+- Blokir Malware & Konten Dewasa: family.cloudflare-dns.com
+
+2. Google Public DNS
+Penyedia DNS yang stabil, cepat, dan sangat kompatibel dengan berbagai jenis jaringan.
+- IPv6: `dns64.dns.google`(Catatan: Google secara umum menggunakan hostname pendek ini untuk DoT/DoH)
+
+3. AdGuard DNS
+Sangat direkomendasikan jika Anda membutuhkan DNS untuk memblokir iklan, pelacak (tracker), dan situs web berbahaya secara bawaan.
+- Blokir Iklan & Malware: `dns.adguard.com`
+- Blokir Iklan & Konten Dewasa: `dns-family.adguard.com`
+- Tanpa Filter: `dns-unfiltered.adguard.com`
+
+4. Quad9
+Penyedia DNS yang berfokus penuh pada keamanan, memblokir phishing dan domain berbahaya berdasarkan analisis ancaman tingkat lanjut.
+- Standar Keamanan: `dns.quad9.net`
+
+a_ai: Jika Anda ingin mengganti DNS, beri tahu saya perangkat apa yang Anda gunakan (Android, Windows, iOS, atau Router), agar saya bisa memberikan panduan langkah demi langkah untuk konfigurasinya.
+
+
+
+
 172.66.0.157 app.genflix.co.id wss
 www.genflix.co.id wss
 prd.genflix.co.id wss genflix axis_genflix
