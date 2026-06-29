@@ -7,17 +7,17 @@ Dikenal sangat cepat, menjaga privasi (tidak mencatat log pencarian), dan menyed
 - Cloudflare DNS: `one.one.one.one` atau `://cloudflare-dns.com`
 - Standar/Cepat: `1dot1dot1dot1.cloudflare-dns.com`
 - Blokir Malware/Phishing: `security.cloudflare-dns.com`
-- Blokir Malware & Konten Dewasa: family.cloudflare-dns.com
+- Blokir Malware & Konten Dewasa: `family.cloudflare-dns.com`
 
 2. Google Public DNS
 Penyedia DNS yang stabil, cepat, dan sangat kompatibel dengan berbagai jenis jaringan.
-- IPv4: dns.google
-- IPv6: `dns64.dns.google`(Catatan: Google secara umum menggunakan hostname pendek ini untuk DoT/DoH):
+- IPv4: `dns.google`
+- IPv6: `dns64.dns.google` (Catatan: Google secara umum menggunakan hostname pendek ini untuk DoT/DoH):
 Alamat IP DNS Google:
-- IPv4 Utama: 8.8.8.8
-- IPv6 Cadangan: 8.8.4.4
-- IPv6 Utama: 2001:4860:4860::8888
-- IPv6 Cadangan: 2001:4860:4860::8844
+- IPv4 Utama: `8.8.8.8`
+- IPv6 Cadangan: `8.8.4.4`
+- IPv6 Utama: `2001:4860:4860::8888`
+- IPv6 Cadangan: `2001:4860:4860::8844`
 
 jikaAdGuard DNS
 Sangat direkomendasikan jika Anda membutuhkan DNS untuk memblokir iklan, pelacak (tracker), dan situs web berbahaya secara bawaan.
